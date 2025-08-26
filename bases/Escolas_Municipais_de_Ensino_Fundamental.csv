@@ -1,0 +1,75 @@
+﻿X,Y,tx_bairro,tx_email,tx_endereco,tx_escola,tx_tipo,tx_anos_2022,globalid,tx_regiao,tx_turno,tx_modalidade,objectid,tx_telefone
+695495.0001,7469160.0028,Engenhoca,emadelino@educacao.niteroi.rj.gov.br,"R. Dr. Nelson Penna, 17 - Engenhoca",E.M. Adelino Magalhães,Ensino Fundamental,"3 a 5 anos; 1º e 2º ciclos",{1F73018D-DD5A-49C4-A697-E244CCDE50A2},Norte,Parcial,EI e EF,1,"3603-8245; 3603-8246"
+694965.0001,7470210.0027,Barreto,emaltivocesar@educacao.niteroi.rj.gov.br,"R. Dr. Luiz Palmier, 25 - Barreto                                            
+",E.M. Altivo César,Ensino Fundamental,"3º e 4º ciclos; EJA 1º, 2º, 3º e 4º ciclos",{D5D5DEEC-3007-4FAB-9DCC-D8108F60DAE6},Norte,Parcial,EF,2,"2694-1480; 2720-1661               "
+692060.0001,7466450.0026,São Domingos,emanisioteixeira@educacao.niteroi.rj.gov.br,"Trav. Manoel Continentino, 31 - São Domingos",E.M. Anísio Teixeira,Ensino Fundamental,"1º e 2º ciclos; 6º ano",{C86E7698-1463-4898-B63F-ADD53084466B},Praias da Baía,Integral,EF,3,2729-1907
+698492.0,7468160.0029,Caramujo,emantineiamiranda@educacao.niteroi.rj.gov.br,"Rodovia Amaral Peixoto, KM 02 - Caramujo",E.M. Antinéia Silveira Miranda,Ensino Fundamental,3º e 4º ciclos,{82D2FBA3-10AE-43A9-AA2C-B263E62266CA},Norte,Integral,EF,4,2729-1807
+700470.0001,7468920.003,Santa Bárbara,emantonioazevedo@educacao.niteroi.rj.gov.br,"R.Nestor Perlingeiro, s/nº - Stª Bárbara",E.M. Antônio Coutinho de Azevedo,Ensino Fundamental,1º e 2º ciclos,{1F6EE5F3-4B04-474D-83A6-8310143424C1},Norte,Parcial,EF,5,"3601-4864; 3607-7326"
+692991.0001,7466420.0026,Morro do Estado,emayrtonsenna@educacao.niteroi.rj.gov.br,"R. Altamiro José Cabral, s/nº - Morro do Estado",E.M. Ayrton Senna,Ensino Fundamental,1º e 2º ciclos,{E7A93C9B-F15D-46D8-88E2-ADAEF645B5EC},Praias da Baía,Parcial,EF,6,"2719-6812; 2719-6799"
+694999.0,7468020.0027,Fonseca,emdemencianomoura@educacao.niteroi.rj.gov.br,"Trav. Magnólia Brasil, s/nº - Fonseca",E.M. Demenciano Antônio de Moura,Ensino Fundamental,"4 a 5 anos; 1º e 2º ciclos",{2353EF31-385E-4858-A8A1-8BA85D658E5E},Norte,Integral,EI e EF,7,3603-8373
+702064.0001,7468230.0032,Maria Paula,emdiogenes@educacao.niteroi.rj.gov.br,"Est. Caetano Monteiro, s/nº - Pendotiba                                          
+",E.M. Diógenes R. de Mendonça,Ensino Fundamental,"5 anos; 1º e 2º ciclos",{54B51BAC-62B9-4878-90E0-4AB8EB878245},Pendotiba,Parcial,EI e EF,8,"2729-4568; 2729-4569"
+697227.0,7469340.0029,Fonseca,emdjalmacoutinho@educacao.niteroi.rj.gov.br,"R. Cinco de Março, 75- Fonseca",E.M. Djalma Coutinho de Oliveira,Ensino Fundamental,1º e 2º ciclos,{B9E3FB0B-C057-45CE-AB5E-EE21E3E8B60F},Norte,Integral,EF,9,"3603-8238; 3603-8239"
+695726.0001,7468690.0027,Fonseca,emdomjose@educacao.niteroi.rj.gov.br,"R. Tenente Osório, 73 - Fonseca",E.M. Dom José Pereira Alves,Ensino Fundamental,1º e 2º ciclos,{09C24D1E-453A-41E9-8C23-C25515B71976},Norte,Integral,EF,10,3603-8052
+693127.0001,7466790.0026,Centro,emalbertotorres@educacao.niteroi.rj.gov.br,"R. Prof. Ismael Coutinho, 88 - Centro",E.M. Dr. Alberto Francisco Torres,Ensino Fundamental,"1º, 2º, 3º e 4º ciclos; EJA 1º, 2º e 3º ciclos",{62C401AE-C808-4109-AE18-69F807E0D283},Praias da Baía,Parcial,EF,11,"2719-6784; 2719-6798"
+697490.0,7468400.0028,Fonseca,umeireginagarcia@educacao.niteroi.rj.gov.br,"R. Bonfim, s/nº - Fonseca",E.M. Ernani Moreira Franco,Ensino Fundamental,"3 a 5 anos; 1º e 2º ciclos",{D94B6B88-1346-4878-B641-4A663411D26C},Norte,Parcial,EI e EF,12,2718-3208
+699454.0,7462120.003,Jacaré,emeulaliabraganca@educacao.niteroi.rj.gov.br             ,"Estrada Frei Orlando, s/nº - Piratininga             
+",E.M. Eulália da Silveira Bragança,Ensino Fundamental,1º e 2º ciclos,{C76E12DD-96FC-4EBC-89C6-64345045B655},Oceânica,Parcial,EF,13,"2608-3541; 2608-3563"
+701150.0001,7466580.0031,Vila Progresso,emfelisbertodecarvalho@educacao.niteroi.rj.gov.br,"Est. Caetano Monteiro, 896 - Pendotiba",E.M. Felisberto de Carvalho,Ensino Fundamental,"5 anos; 1º e 2º ciclos",{5803EC05-5FB9-4AFF-809B-BF6AD5F7D43F},Pendotiba,Parcial,EI e EF,14,2707-4065
+699240.0001,7461550.003,Piratininga,emportugalneves@educacao.niteroi.rj.gov.br,"R. Quatorze, 14 - Piratininga  
+",E.M. Francisco Portugal Neves,Ensino Fundamental,"3º e 4º ciclos; EJA 1º, 2º, 3º e 4º ciclos",{F634DD57-9E68-428C-BBAB-B4593AF55F63},Oceânica,Parcial,EF,15,"2619-8161; 2619-8160"
+698088.0,7469720.0028,Baldeador,emrobertosilveira@educacao.niteroi.rj.gov.br,"Lot. Bento Pestana, s/nº - Morro do Castro           
+",E.M. Governador Roberto Silveira,Ensino Fundamental,"4 a 5 anos; 1º ciclo",{2D5428B9-1FF2-498C-AAC9-66901A105537},Norte,Parcial,EI e EF,16,"3714-8528; 3714-8529"
+697059.0,7464830.0028,São Francisco,emhelenaantipoff@educacao.niteroi.rj.gov.br,"Av. Rui Barbosa, 388 - São Francisco",E.M. Helena Antipoff,Ensino Fundamental,"1º e 2º ciclos; EJA 1º e 2º ciclos",{7FFF858B-073D-4FC5-985E-4A827C130491},Praias da Baía,Parcial,EF,17,"3602-4171; 3602-4172"
+706897.0001,7464560.0034,Várzea das Moças,emheloneidastudart@educacao.niteroi.rj.gov.br,"Est. da Serrinha, s/nº - Várzea das Moças",E.M. Heloneida Studart,Ensino Fundamental,"3 a 5 anos; 1º e 2º ciclos",{742F8939-05CB-40E1-97F7-2FE51C8615CD},Leste,Parcial,EI e EF,18,"2709-3742; 2709-3974"
+702457.0,7468150.0031,Maria Paula,emhonorina@educacao.niteroi.rj.gov.br,"R. Prof. José Peçanha, s/nº - Pendotiba  
+",E.M. Honorina de Carvalho,Ensino Fundamental,"3º e 4º ciclos; EJA 1º, 2º, 3º e 4º ciclos",{1CA3E27B-C1EC-410D-A161-1DF6D40B43F3},Pendotiba,Parcial,EF,19,"3709-9406; 3709-9457"
+695742.0,7468610.0028,Fonseca,emjacintamedela@educacao.niteroi.rj.gov.br,"R. Tenente Osório, 10 - Fonseca",E.M. Jacinta Medela,Ensino Fundamental,1º e 2º ciclos,{24CBF39B-D8BC-4C26-9943-04478763AE15},Norte,Parcial,EF,20,3603-6320
+698054.0,7469760.0029,Baldeador,emjoaobrazil@educacao.niteroi.rj.gov.br,"Lot. Bento Pestana, s/nº - Morro do Castro",E.M. João Brazil,Ensino Fundamental,"1º, 2º, 3º e 4º ciclos; EJA 1º e 2º ciclos",{D4A3A72F-B033-4ABB-9D59-1941E58FF4CB},Norte,Parcial,EF,21,"3714-8576; 3714-8589"
+698298.0001,7466940.0029,Caramujo,emjosedeanchieta@educacao.niteroi.rj.gov.br,"R. B e D, s/nº - Morro do Céu",E.M. José de Anchieta,Ensino Fundamental,"1º, 2º, 3º e 4º ciclos",{720DF691-4D7A-4860-8E14-0A86630BC456},Norte,Parcial,EF,22,"2618-1535; 2618-1549"
+694001.0,7465840.0027,Icaraí,emjuliacortines@educacao.niteroi.rj.gov.br,"R. Lopes Trovão,s/nº - Icaraí                                                     
+",E.M. Julia Cortines,Ensino Fundamental,1º e 2º ciclos,{05EFFE67-A098-4A21-A39B-7FC4CEBACFC7},Praias da Baía,Parcial,EF,23,2710-8397
+699164.0,7466660.003,Sapê,emlevicarneiro@educacao.niteroi.rj.gov.br,"Estrada do Sapê, 488 - Pendotiba",E.M. Levi Carneiro,Ensino Fundamental,"1º, 2º, 3º e 4º ciclos",{94A70D4F-0D52-48F3-BDAA-91F53354052D},Pendotiba,Parcial,EF,24,"2718-3424; 2718-3823"
+693311.0001,7469300.0026,Ilha da Conceição,emvillalobos@educacao.niteroi.rj.gov.br,"R. Salo Brand, s/nº - Ilha da Conceição",E.M. Maestro Heitor Villa Lobos,Ensino Fundamental,"1º, 2º, 3º e 4º ciclos; EJA 1º, 2º, 3º e 4º ciclos",{6B7BA26D-14A2-4D49-967C-9D89B880FCF9},Norte,Parcial,EF,25,"2719-6818; 2719-6813"
+697661.0,7462230.0029,Cafubá,emmaralegre@educacao.niteroi.rj.gov.br,"R. 65, L. 10 e 11, Q. 87 - Cafubá                                                        
+",E.M. Maralegre,Ensino Fundamental,1º e 2º ciclos,{890C3E90-2F4B-4FD1-BABE-9540879A2E46},Oceânica,Parcial,EF,26,"2709-1293; 2709-7747"
+695076.0,7470210.0027,Barreto,emmestrafininha@educacao.niteroi.rj.gov.br,"R. Dr. Luiz Palmier, 100 - Barreto  
+",E.M. Mestra Fininha,Ensino Fundamental,1º e 2º ciclos,{743286E2-FCAA-47C4-BE76-284E5C1F0AB6},Norte,Parcial,EF,27,"3604-6002; 3604-6003"
+696526.0001,7469290.0028,Fonseca,emnoronhasantos@educacao.niteroi.rj.gov.br,"R. Henrique Lage, 184 - Fonseca
+",E.M. Noronha Santos,Ensino Fundamental,"2 a 5 anos; 1º e 2º ciclos",{BC15E082-AE1E-4C82-83C2-FABA15479A5F},Norte,"EI – Integral; 1º ciclo – Parcial",EI e EF,28,"3603-8005; 2719-6939     "
+692471.0001,7468420.0025,Ponta da Areia,emnossapenha@educacao.niteroi.rj.gov.br,"Lad. Major Rocha, s/nº - Ponta da Areia",E.M. Nossa Senhora da Penha,Ensino Fundamental,1º e 2º ciclos,{19DF40DF-7923-4FB8-BFC7-50C134292491},Praias da Baía,Parcial,EF,29,"2719-6866; 2719-6842"
+695769.0001,7465850.0027,Santa Rosa,empadreleonel@educacao.niteroi.rj.gov.br,"R. Santos Moreira, 58 - Santa Rosa            
+",E.M. Padre Leonel Franca,Ensino Fundamental,1º e 2º ciclos,{665204F8-14DF-43EC-8B28-02164C7EA446},Praias da Baía,Parcial,EF,30,"2715-4830; 2715-4816"
+696696.0,7468160.0028,Fonseca,empaulofreire@educacao.niteroi.rj.gov.br,"R. Soares de Miranda, 77 - Fonseca    
+",E.M. Paulo Freire,Ensino Fundamental,"1º, 2º, 3º e 4º ciclos",{D574C956-2B14-48EB-9239-D9A4032A8A8D},Norte,Parcial,EF,31,"2718-5121; 2718-5159        "
+705369.0,7465870.0033,Rio do Ouro,emboliviagaetho@educacao.niteroi.rj.gov.br,"Est. Sen. Fernando da Cunha, s/nº - Rio do Ouro  
+",E.M. Profª Bolívia de Lima Gaétho,Ensino Fundamental,1º e 2º ciclos,{1D467F16-B242-4389-9219-B2839851F97C},Leste,Parcial,EF,32,"3611-8165 ; 3611-8294"
+694495.0,7465080.0026,Icaraí,emelviralucia@educacao.niteroi.rj.gov.br,"Trav. Emílio Andrada, 2 - Icaraí 
+",E.M. Profª Elvira Lúcia Esteves de Vasconcelo,Ensino Fundamental,1º ciclo,{69A9D578-4C37-44E8-9795-4C6EB9434897},Praias da Baía,Integral,EF,33," 2710-7071; 2710-3006                                                                "
+694554.0001,7462380.0027,Jurujuba,emluciamaria@educacao.niteroi.rj.gov.br,"R. Carlos Ermelindo Marins, 34 - Jurujuba",E.M. Profª Lúcia Mª da Silveira Rocha,Ensino Fundamental,"4 a 5 anos; 1º e 2º ciclos",{875D3A5A-7C5F-4E77-8FB6-DABA8478F496},Praias da Baía,Parcial,EI e EF,34,"3701-3707; 3701-3973"
+695752.0,7464440.0028,São Francisco,emmariaangela@educacao.niteroi.rj.gov.br,"R. Tupiniquis, 392 - São Francisco",E.M. Profª Mª Ângela Moreira Pinto,Ensino Fundamental,1º e 2º ciclos,{7BFA288D-4E12-4098-A6CF-44E80A7C1B7D},Praias da Baía,Parcial,EF,35,"2610-8695; 2714-5357"
+695512.0,7468060.0027,Fonseca,emmariadelourdes@educacao.niteroi.rj.gov.br,"R. Leite Ribeiro, 120 - Fonseca                                                        
+",E.M. Profª Mª de Lourdes Barbosa Santos,Ensino Fundamental,"1º e 2º ciclos, EJA 1º e 2º ciclos",{4011642F-2D8C-46FA-ACF3-172E203CBEB1},Norte,Parcial,EF,36,"3602-4147; 3602-4150"
+696004.0,7470000.0028,Engenhoca,emdomhenrique@educacao.niteroi.rj.gov.br,"R. Prof. João Brasil, 2.000 - Engenhoca  
+",E.M. Profª Mª Felisberta Baptista da Trindade,Ensino Fundamental,"4 a 5 anos; 1º e 2º ciclos",{51746D1D-F2BD-419A-B709-6E68BB674735},Norte,Integral,EI e EF,37,"3714-2161; 3714-2775"
+695062.0,7470200.0027,Barreto,emandretrouche@educacao.niteroi.rj.gov.br   ,"R. Dr. Luiz Palmier, 100 - Barreto",E.M. Profº André Trouche,Ensino Fundamental,1º e 2º ciclos,{563A09C4-737A-4A34-9BDD-74FC94F5B151},Norte,Parcial,EF,38,2719-4030
+701738.0,7460850.0031,Itaipu,emdariocastello@educacao.niteroi.rj.gov.br,"Rua: Alice Picanço, 21- Itaipu          
+",E.M. Profº Dario de Souza Castello,Ensino Fundamental,1º e 2º ciclos,{41BFAA71-712E-471F-BF07-E7AB3E516539},Oceânica,Parcial,EF,39,2609-4928
+699856.0001,7465150.003,Cantagalo,emhoraciopacheco@educacao.niteroi.rj.gov.br,"Av. Celso Peçanha, s/nº - Cantagalo                                       
+",E.M. Profº Horácio Pacheco,Ensino Fundamental,1º e 2º ciclos,{B26D5BDF-659C-413A-BF08-3AE6F0C5C875},Pendotiba,Parcial,EF,40,"2718-8805; 2718-8814"
+701666.0,7459360.0031,Itaipu,emmarcoswaldemar@educacao.niteroi.rj.gov.br,"R. Antônio Luiz Saião, s/nº - Itaipu  
+",E.M. Profº Marcos Waldemar de Freitas Reis,Ensino Fundamental,1º e 2º ciclos,{C7BBF973-60A1-4858-B2D9-29ED3EFB99D9},Oceânica,Parcial,EF,41,2717-9793
+693525.0001,7465780.0027,Icaraí,empaulodealmeida@educacao.niteroi.rj.gov.br,"R. Gal. Pereira da Silva, 50 - Icaraí            
+",E.M. Profº Paulo de Almeida Campos,Ensino Fundamental,"1º e 2º ciclos; EJA 1º e 2º ciclos",{6E319FD4-9784-45F5-8D7E-C598CB6D0F55},Praias da Baía,Parcial,EF,42,"3602-4589; 3602-4504"
+700134.0001,7468870.003,Santa Bárbara,emrachidesaker@educacao.niteroi.rj.gov.br,"R. Jandira Pereira, 620/623 - Stª Bárbara 
+",E.M. Rachide da G. Salim Saker,Ensino Fundamental,3º e 4º ciclos,{056CE2B4-2569-478B-97A9-42EA65D8BB01},Norte,Parcial,EF,43,"2705-9788; 2705-9792"
+693934.0001,7466820.0026,Bairro de Fátima,emsantosdumont@educacao.niteroi.rj.gov.br,"R. Manoel Corrêa, s/nº - Bairro de Fátima",E.M. Santos Dumont,Ensino Fundamental,"1º, 2º, 3º e 4º ciclos",{7984470B-566F-47E5-9718-BE7E0354DB21},Praias da Baía,Parcial,EF,44,"2721-4084; 2721-4934"
+696698.0001,7467020.0028,Caramujo,emsebastiana@educacao.niteroi.rj.gov.br,"Est. Viçoso Jardim, s/nº - Viçoso Jardim 
+",E.M. Sebastiana G. Pinho,Ensino Fundamental,"4 a 5 anos; 1º e 2º ciclos",{4616FBEB-1CCB-47F8-864F-30B4C053BC4C},Norte,Parcial,EI e EF,45,2722-5737
+702430.0,7468160.0031,Matapaca,emveralucia@educacao.niteroi.rj.gov.br,"R. Prof. José Peçanha, s/nº - Pendotiba                                                    
+",E.M. Sítio do Ipê,Ensino Fundamental,1º e 2º ciclos,{4F762598-EDD0-4457-8ECD-7F7F68B83430},Pendotiba,Parcial,EF,46,"3701-9775; 3701-9776"
+696539.0001,7470320.0028,Tenente Jardim,emtiradentes@educacao.niteroi.rj.gov.br,"R. Dr. March, 628 - Tenente Jardim",E.M. Tiradentes,Ensino Fundamental,"4 a 5 anos; 1º e 2º ciclos",{2B2DCE67-6AAD-49E4-8E34-D6E5C9A0191E},Norte,Parcial,EI e EF,47,"3607-4053; 3607-4054"
+699996.0,7465700.003,Badu,emsitiodoipe@educacao.niteroi.rj.gov.br,"R. Ademar de Paiva, 7 e 8 - Badu                                                                   
+",E.M. Vera Lúcia Machado,Ensino Fundamental,1º e 2º ciclos,{D7DB0912-D7F4-4F8A-AE03-C9E93C55ADF3},Pendotiba,Parcial,EF,48,"2729-4454; 2729-4456"
+697168.0,7466660.0028,Ititioca,emvilamonteiro@educacao.niteroi.rj.gov.br,"R. Ititioca, s/nº - Ititioca                                                                  
+",E.M. Vila Costa Monteiro,Ensino Fundamental,"3 a 5 anos; 1º e 2º ciclos",{B4636D21-3189-4502-A211-E58504941BFC},Pendotiba,Parcial,EI e EF,49,2715-8275
